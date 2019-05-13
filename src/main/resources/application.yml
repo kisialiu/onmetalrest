@@ -1,0 +1,6 @@
+mongodb:
+  name: on_metal_db
+  host: 67.205.186.196
+  port: 27017
+  username: vova
+  password:
